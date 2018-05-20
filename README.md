@@ -43,3 +43,6 @@ do
    esac
 done
 }
+
+$ git tag
+v1.0
